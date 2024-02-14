@@ -6,6 +6,7 @@
 <h3 align="center">A Passionate Software Engineer | Full Stack .Net Developer</h3>
 <h4>👩🏻‍🎓 I graduated from Faculty of Computer And Artifitial Intelligence,Benha University (Information Systems Department)</h4>
 <h4>🔭 I’m currently a Professional Web Development & BI Trainee at Information Technology Institute (ITI)<h4>
+  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" height="200"/>
 <h2 align="center">Let's Connect and have a Chat!💬</h2>
 </hr>
 <p align="center"> 
