@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/fatma-mohamed-sorour/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="linkedin" width="40" height="40"/> 
   </a> 
-  <a href="fatmamohamed862s@gmail.com" target="_blank" rel="noreferrer"> 
+  <a href="mailto:fatmamohamed862s@gmail.com" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/570bb99379d885dbff631ac5f92780a4d796017f78d34d8dd0f02924ded88278/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3838382f3838383835332e706e67" alt="gmail" width="40" height="40"/> 
   </a> 
 </p>
