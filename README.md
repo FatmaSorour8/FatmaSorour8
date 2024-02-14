@@ -3,7 +3,7 @@
   </a> 
   <h1 align="center">I'm Fatma Mohamed Sorour 👋</h1>
 </hr>
-  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="200px"/>
+  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="130px"/>
 <h3 align="center">A Passionate Software Engineer | Full Stack .Net Developer</h3>
 <h4>👩🏻‍🎓 I graduated from Faculty of Computer And Artifitial Intelligence,Benha University (Information Systems Department)</h4>
 <h4>🔭 I’m currently a Professional Web Development & BI Trainee at Information Technology Institute (ITI)<h4>
