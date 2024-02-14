@@ -9,7 +9,7 @@
 <h2 align="center">Let's Connect and have a Chat!💬</h2>
 </hr>
 <p align="center"> 
-  <a href="www.linkedin.com/in/fatma-mohamed-sorour" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/fatma-mohamed-sorour/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png" alt="linkedin" width="40" height="40"/> 
   </a> 
   <a href="fatmamohamed862s@gmail.com" target="_blank" rel="noreferrer"> 
