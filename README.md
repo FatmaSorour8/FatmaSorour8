@@ -49,6 +49,10 @@
    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="30" height="30"/> 
   </a>
+  </a> 
+   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="jquery" width="30" height="30"/> 
+  </a>
 </p>
 
 <h3 align="left">Backend Development</h3>
